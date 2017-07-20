@@ -1,7 +1,7 @@
 #include <WiFi.h>
  
-const char* ssid = "kll-wlan";
-const char* password = "WELOVEKOH-SAMUI";
+const char* ssid = "my SSID";
+const char* password = "my passworde";
  
 int ledPin = 5; // GPIO??
 WiFiServer server(80);
